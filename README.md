@@ -5,3 +5,4 @@ This is where the project CAD files will be uploaded based on version updates.
 
 link to final OSF Project: https://osf.io/t7m8q/overview?view_only=522d158d720c43f8bc6a3354717982de
 
+Updating Putter File: https://a360.co/4sW1oWc (Putter Body), https://a360.co/4bJmfWq (Putter Face)
